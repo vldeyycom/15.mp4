@@ -46,7 +46,7 @@ overlay.addEventListener("click", () => {
     overlay.classList.remove("show");
 
     // Aksi setelah klik
-    window.open("https://s.shopee.co.id/7Ab1f7ynrv", "_blank");
+    window.open("https://s.shopee.co.id/1Leac9PRqg", "_blank");
 });
 
 
